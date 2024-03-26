@@ -17,8 +17,7 @@ def test_login_success(site, set_locator1, username, set_locator2, password, set
     time.sleep(data['sleep_time'])
 
 
-def test_title_new_post(site, set_locator1, username, set_locator2, password, set_locator3, set_locator6, set_locator7,
-                        title_new_post, set_locator8, set_locator9):
+def test_title_new_post(site, set_locator6, set_locator7, title_new_post, set_locator8, set_locator9):
     create1 = site.find_element('css', set_locator6)
     create1.click()
     time.sleep(data['sleep_time'])
