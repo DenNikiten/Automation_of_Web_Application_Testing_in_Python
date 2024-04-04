@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser_name: chrome
+sleep_time: 2
+username_for_api: Jarred54
+password_for_api: 278d8006df
+url: https://test-stand.gb.ru/gateway/login
+url2: https://test-stand.gb.ru/api/posts
+text_post: Writer
+text_new_post: telefon

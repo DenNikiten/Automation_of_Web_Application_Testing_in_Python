@@ -1,0 +1,19 @@
+2024-04-05 01:14:11 INFO ====== WebDriver manager ======
+2024-04-05 01:14:12 INFO Get LATEST chromedriver version for google-chrome
+2024-04-05 01:14:12 INFO Get LATEST chromedriver version for google-chrome
+2024-04-05 01:14:12 INFO There is no [win64] chromedriver "123.0.6312.88" for browser google-chrome "123.0.6312.88" in cache
+2024-04-05 01:14:12 INFO Get LATEST chromedriver version for google-chrome
+2024-04-05 01:14:12 INFO WebDriver version 123.0.6312.105 selected
+2024-04-05 01:14:12 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.105/win32/chromedriver-win32.zip
+2024-04-05 01:14:12 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.105/win32/chromedriver-win32.zip
+2024-04-05 01:14:13 INFO Driver downloading response is 200
+2024-04-05 01:14:14 INFO Get LATEST chromedriver version for google-chrome
+2024-04-05 01:14:14 INFO Driver has been saved in cache [C:\Users\Daria\.wdm\drivers\chromedriver\win64\123.0.6312.88]
+2024-04-05 01:14:16 INFO Test negative starting
+2024-04-05 01:14:17 INFO Test auth login Starting
+2024-04-05 01:14:19 INFO Test create new post Starting
+2024-04-05 01:14:21 INFO Test Contact us Starting
+2024-04-05 01:14:26 INFO Get alert text
+2024-04-05 01:14:26 INFO Form successfully submitted
+2024-04-05 01:14:27 INFO Test check title post Starting
+2024-04-05 01:14:28 INFO Test check description new post Starting
